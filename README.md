@@ -23,4 +23,5 @@ http://t.me/dhpersonalcovid_bot
 Web application link : https://node-red-vhruj-2020-10-19.eu-gb.mybluemix.net/ui/#!/0?socketid=Yt99IMsgRQApLzMzAAAB
 Node-RED link: https://node-red-vhruj-2020-10-19.eu-gb.mybluemix.net/red/#flow/481289ed.bd2438
 Github Link: https://github.com/SmartPracticeschool/SPS-7229-Personal-translator-using-IBM-cognitive-services
+Demo Vedio Link : https://drive.google.com/file/d/1BOlXzmDwflZD_0SPA8Kpiv2fvtLhvO7i/view?usp=sharing
 
